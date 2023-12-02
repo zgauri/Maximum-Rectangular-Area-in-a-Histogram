@@ -21,12 +21,15 @@ Explanation: Maximum size of the histogram
 will be 8  and there will be 2 consecutive 
 histogram. And hence the area of the 
 histogram will be 8x2 = 16.
+
 Your Task:
+<br>
 The task is to complete the function getMaxArea() which takes the array arr[] and its size N as inputs and finds the largest rectangular area possible and returns the answer.
 
 Expected Time Complxity : O(N)
 Expected Auxilliary Space : O(N)
 
 Constraints:
+<br>
 1 ≤ N ≤ 106
 0 ≤ arr[i] ≤ 1012
